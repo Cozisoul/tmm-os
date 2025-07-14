@@ -11,7 +11,7 @@ The canonical inventory of all artworks is stored in the `artworks` table within
 
 ### 2.0 Database Schema Fields
 
-Refer to `TMM-OS/DATABASE/01_schema_artworks.sql` for the formal `CREATE TABLE` statement. The fields are:
+Refer to `DATABASE/01_schema_artworks.sql` for the formal `CREATE TABLE` statement. The fields are:
 *   `id`: Unique numeric ID (Primary Key).
 *   `artwork_id`: Human-readable unique ID (e.g., `2024-AES72-S-001`).
 *   `title`: The official title of the work.
