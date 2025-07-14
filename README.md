@@ -16,12 +16,12 @@ This system is built on a hybrid architecture:
 ## 2.0 MASTER INDEX
 
 ### Module I: Strategic Foundations
-*   [**Doc 01: The Core Identity Framework**](./TMM-OS/01_STRATEGIC_FOUNDATIONS/TMM-OS_01_Core_Identity_Framework.md) - *My "Why": Mission, Vision, and Narrative.*
-*   [**Doc 02: The Strategic Orchestration**](./TMM-OS/01_STRATEGIC_FOUNDATIONS/TMM-OS_02_Strategic_Orchestration.md) - *My 15-Year Master Plan.*
-*   [**Doc 03: The Pantheon & Influence Map**](./TMM-OS/01_STRATEGIC_FOUNDATIONS/TMM-OS_03_Influence_Map.md) - *My Intellectual and Creative DNA.*
+*   [**Doc 01: The Core Identity Framework**](./tmm-os/TMM-OS/01_STRATEGIC_FOUNDATIONS/TMM-OS_01_Core_Identity_Framework.md) - *My "Why": Mission, Vision, and Narrative.*
+*   [**Doc 02: The Strategic Orchestration**](./tmm-os/TMM-OS/01_STRATEGIC_FOUNDATIONS/TMM-OS_02_Strategic_Orchestration.md) - *My 15-Year Master Plan.*
+*   [**Doc 03: The Pantheon & Influence Map**](./tmm-os/TMM-OS/01_STRATEGIC_FOUNDATIONS/TMM-OS_03_Influence_Map.md) - *My Intellectual and Creative DNA.*
 
 ### Module II: Operational Toolkit
-*   [**Doc 04: The Brand Identity & IP System**](./TMM-OS/02_OPERATIONAL_TOOLKIT/TMM-OS_04_Brand_IP_System.md) - *My "Brand Bible" and IP Protection Plan.*
+*   [**Doc 04: The Brand Identity & IP System**](./tmm-os/TMM-OS/02_OPERATIONAL_TOOLKIT/TMM-OS_04_Brand_IP_System.md) - *My "Brand Bible" and IP Protection Plan.*
 *   [**Doc 04a: The Brand Architecture Blueprint**](./TMM-OS/02_OPERATIONAL_TOOLKIT/TMM-OS_04a_Brand_Architecture_Blueprint.md) - *The Strategic Plan for Each Sub-Brand.*
 *   [**Doc 05: The Asset Management System**](./TMM-OS/02_OPERATIONAL_TOOLKIT/TMM-OS_05_Asset_Management_System.md) - *The Master Inventory of All Creative Work.*
 *   [**Doc 06: The Financial Master Plan**](./TMM-OS/02_OPERATIONAL_TOOLKIT/TMM-OS_06_Financial_System.md) - *My Financial Engine and Budget Templates.*
