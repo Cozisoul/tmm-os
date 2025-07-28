@@ -1,57 +1,51 @@
 # TMM-OS Doc 06a: The Skills & Competencies Log
 **Version:** 1.0 | **Status:** LIVING DOCUMENT - UPDATE WITH EACH NEW SKILL/PROJECT | **Last Reviewed:** 2025-07-13
 
-**Primary Use Case:** To serve as a definitive, internal inventory of proven capabilities. This log allows for rapid self-assessment when considering new projects and provides the source material for the "Skills" section of a CV or proposal. It connects abstract skills to concrete evidence.
+---
+
+### 1.0 Introduction
+This document is the definitive inventory of all professional capabilities. It serves as the single source of truth for skills, linking each competency to a specific project as evidence. This log is the master database for generating the "Skills" section of any CV, proposal, or professional bio.
 
 ---
 
-### 1.0 Creative Production
+### 2.0 Creative Production
 
-| Skill / Competency | Proficiency Level | Evidence / Project Where Used |
-| :--- | :--- | :--- |
-| **Photography (Conceptual)** | **Advanced** | `Remnants of Rhodes`, `Us as thee Culture`, `ME` |
-| **Photography (Commercial)** | **Advanced** | Vanz for Sportscene, Hlogi Ngoepe, Factorie, Cotton On ZA |
-| **Photography (Studio)** | **Advanced** | UCT Photosoc Studio Manager (Managed equipment, ran workshops) |
-| **Videography (Directing)** | **Advanced** | `Excommunicado` Music Video, `Areyeng di zweiling` |
-| **Video Editing** | **Advanced** | Block Black, MOOD Creative Agents, Match Padel SA, `Excommunicado` |
-| **Image Editing & Retouching**| **Expert** | Varsity Newspaper Image Editor, Grovest VC, all commercial shoots |
-| **Painting (Abstract)** | **Intermediate** | `Reading Genesis` Series, `fruit...`, `come in...` |
-| **Sculpture (Found Object)**| **Intermediate** | `Lebus`, `Untittled 01 & 02` |
-| **Content Creation & Copywriting**| **Advanced** | Thickleeyonce (copy/captions), all personal project descriptions |
-| **Creative Direction** | **Advanced** | MOOD Creative Agents, developed concepts for Vanz & Block Black |
+| Specific Skill / Competency | Software Proficiency | Proficiency Level | Evidence / Project Where Used |
+| :--- | :--- | :--- | :--- |
+| **Photography** | Adobe Lightroom, Photoshop | **Advanced** | `2024-THAPO-COM-001` (Vanz), `2019-THAPO-PHS-002` (Remnants of Rhodes) |
+| **Videography** | Final Cut Pro, Da Vinci Resolve | **Advanced** | `2024-THAPO-COM-003` (Viktor & Rolf), `2024-0723-V-001` (Areyeng di zweiling)|
+| **Video Editing** | Final Cut Pro, Da Vinci Resolve | **Advanced** | `2024-0723-COM-009` (Excommunicado), `2024-THAPO-COM-002` (Block Black) |
+| **Image Editing & Retouching** | Adobe Photoshop | **Advanced** | `2018-THAPO-COM-014` (Varsity Newspaper), All commercial photo projects |
+| **Sound Design & Sonification**| Supercollider | **Foundational**| `MeerKAT Echoes` (Planned) |
+| **Graphic Design** | Adobe Photoshop, Canva | **Intermediate**| All TMM Branding, `PayJustNow` Project (Leebex) |
 
-### 2.0 Technical & Data
+### 3.0 Data & Technology
 
-| Skill / Competency | Proficiency Level | Evidence / Project Where Used |
-| :--- | :--- | :--- |
-| **Data Analysis & Visualization**| **Foundational** | Deviare Data Scientist Path; `Sound & Memory Dashboard` (In Progress) |
-| **AI-driven Content Creation** | **Foundational** | Stated skill on CV; to be applied in `The Biko Archives` |
-| **Algorithmic Problem-Solving**| **Foundational** | Core concept from data science training |
-| **Prompt Engineering (AI Tools)**| **Intermediate** | Stated skill on CV |
-| **Python (pandas, numpy)** | **Foundational** | Deviare Data Scientist Path |
-| **SQL (MySQL)** | **Foundational** | TMM-OS Database setup; Deviare Path |
-| **Deep Learning** | **Foundational** | (Currently learning this week) |
+| Specific Skill / Competency | Software Proficiency | Proficiency Level | Evidence / Project Where Used |
+| :--- | :--- | :--- | :--- |
+| **Data Analysis & Visualization**| Python (pandas, seaborn), Tableau | **Intermediate**| Deviare Projects, `2024-DATA-D-001` (Sound & Memory Dashboard) |
+| **AI Prompt Engineering** | Chat Gpt, Ollama | **Intermediate**| AI-driven content creation, research synthesis for TMM-OS. |
+| **Machine Learning** | Python (scikit-learn) | **Foundational**| Deviare Projects, "ML Constellations" (Planned), `The Biko Archives` (Planned) |
+| **Database Management**| MySQL | **Foundational**| TMM-OS Backend Infrastructure, Deviare Projects |
+| **Automation** | n8n | **Foundational**| Workflow automation for content management. |
 
-### 3.0 Software Proficiency
+### 4.0 Strategy & Communication
 
-| Software | Proficiency Level | Notes |
-| :--- | :--- | :--- |
-| **Adobe Suite (Ps, Pr, Lr)** | **Expert** | Used across all photo/video projects since 2018. |
-| **Final Cut Pro** | **Advanced** | Alternative professional video editing tool. |
-| **Da Vinci Resolve** | **Intermediate** | Professional color grading and video editing. |
-| **Canva** | **Advanced** | Rapid graphic design and content creation. |
-| **Microsoft Suite / G Suite**| **Expert** | Standard professional office software. |
-| **AI Tools (ChatGpt, Ollama)**| **Intermediate** | Used for prompt engineering and content ideation. |
-| **Automation (n8n)** | **Foundational** | Interest in workflow automation. |
-| **Creative Coding (Supercollider)**| **Foundational** | Interest in sound synthesis and algorithmic composition. |
+| Specific Skill / Competency | Software Proficiency | Proficiency Level | Evidence / Project Where Used |
+| :--- | :--- | :--- | :--- |
+| **Project Management** | Google Suite | **Advanced** | `2024-THAPO-COM-002` (Block Black), `2024-THAPO-COM-005` (MOOD) |
+| **Creative Direction** | N/A | **Advanced** | `2024-0723-COM-009` (Excommunicado), `2019-THAPO-PHS-003` (Us as thee Culture) |
+| **Social Media Management** | Sprout, Hootsuite, Native Platforms | **Advanced** | `2024-THAPO-COM-008` (Tactical Padel), `Freelance` (2019-Present) |
+| **Content Creation & Copywriting**| Google Docs, Notion | **Advanced** | All project proposals, artist statements, social media captions. |
+| **Community Management** | Instagram, TikTok, LinkedIn | **Intermediate**| `Love Me Again` (Planned), Freelance client work. |
+| **Analytical Skills & Metric Interpretation**| Native social analytics, Google Analytics| **Intermediate**| Reporting for commercial clients (Vanz, Cotton On). |
 
-### 4.0 Professional & Business
+### 5.0 General Professional
 
-| Skill / Competency | Proficiency Level | Evidence / Project Where Used |
-| :--- | :--- | :--- |
-| **Project Management** | **Advanced** | Managed entire production process for MOOD & Block Black. |
-| **Client Relationship Management**| **Advanced** | Freelance Photographer role (ensuring satisfaction & repeat business). |
-| **Social Media Management** | **Advanced** | Listed skill; familiarity with Sprout/Hootsuite. |
-| **Community Management** | **Intermediate** | Stated skill on CV. |
-| **Analytical Skills & Metrics**| **Intermediate** | Core to Data Science training; applied in social media strategy. |
-| **C1 Drivers License** | **Proficient** | Practical life skill enabling travel for shoots. |
+| Specific Skill / Competency | Details |
+| :--- | :--- |
+| **Mentorship & Teaching** | Coordinated and conducted photography workshops at UCT Photosoc. |
+| **Client Relationship Management**| Managed client relationships, ensuring satisfaction and repeat business as a freelancer. |
+| **C1 Driver's License** | Full, valid driver's license. |
+
+---
