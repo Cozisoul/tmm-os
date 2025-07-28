@@ -1,44 +1,63 @@
-# TMM-OS Doc 07: The "Plug-and-Play" Press & Funding Kit Blueprint
-**Version:** 1.0 | **Status:** OPERATIONAL ASSET - UPDATE QUARTERLY | **Last Reviewed:** 2025-07-13
-
-**Primary Use Case:** To provide a single, professional link to a cloud folder (e.g., Dropbox, Google Drive) in response to any request from journalists, curators, conference organizers, or potential sponsors. This signals extreme preparedness and ensures your story is told accurately.
+# TMM-OS Doc 07: The "Plug-and-Play" Press & Funding Kit
+**Version:** 1.0 | **Status:** OPERATIONAL BLUEPRINT - UPDATE ASSETS QUARTERLY | **Last Reviewed:** 2025-07-13
 
 ---
 
-### Folder Structure & Required Contents:
+### 1.0 Introduction
+This document is the blueprint for a dedicated, cloud-hosted folder that serves as your official Press & Funding Kit. It is a pre-packaged, professional toolkit designed for instant deployment to journalists, curators, collaborators, and potential sponsors. Its purpose is to signal extreme preparedness and ensure your public narrative is always accurate and on-brand.
 
-**1. `_START_HERE_(Contact_Sheet).pdf`**
+### 2.0 Implementation Instructions
+1.  Create a master folder named **`Thapelo Masebe - Press Kit`** in your preferred cloud storage service (e.g., Google Drive, Dropbox).
+2.  Create the sub-folders and documents listed below within that master folder.
+3.  Generate a shareable link to the master folder. This single link is what you will provide upon request.
+
+---
+
+### 3.0 Folder Structure & Contents
+
+#### **`_START_HERE_(Contact_Sheet).pdf`**
 *   **Content:** A one-page PDF guide.
-    *   **Header:** Thapelo Madiba Masebe - Press & Media Kit
-    *   **Contact:** `[Your Professional Email]`, `thapelomasebe.com`, `[LinkedIn URL]`
-    *   **Instruction:** "Thank you for your interest. This kit contains approved assets for media and promotional use. Please find bios, statements, official headshots, and selected artwork images in their respective folders. All images must be credited 'Photo by Thapelo Masebe' unless otherwise specified in the credit line."
+    *   **Header:** Thapelo Masebe - Press & Media Kit
+    *   **Contact Info:** Email, Website, LinkedIn, GitHub.
+    *   **Instruction:** "Thank you for your interest. This kit contains approved assets for media and promotional use. Please find bios, statements, official headshots, and selected artwork images in their respective folders. For all other inquiries, please contact me directly."
 
-**2. `01_BIO_&_STATEMENTS` (Folder)**
-*   **`Bio_Thapelo_Masebe.pdf`:** A single document containing three approved versions:
-    *   **Short Bio (50 words):** "Thapelo Madiba Masebe is a South African transdisciplinary artist and data scientist from Seshego, Limpopo. His work translates data, memory, and identity into tangible forms, exploring the emotional geography of the modern African experience. He operates at the intersection of art, code, and archival investigation."
-    *   **Medium Bio (150 words):** "Thapelo Madiba Masebe is a South African transdisciplinary artist, researcher, and emerging data scientist with a proven track record of commercial and conceptual work. His practice, which spans photography, videography, painting, and data art, is a systematic exploration of memory, identity, and history. Charting a narrative from his origins in Seshego to his current base in Johannesburg, Masebe uses both analog and computational tools to investigate the unseen patterns that shape our lives. His work has been featured in campaigns for brands like Vans and Cotton On, while his personal projects interrogate themes of post-colonial legacy and digital identity. He is currently expanding his practice into AI and deep learning to pioneer new forms of data-driven storytelling."
-    *   **Long Bio (400 words):** This will be a more detailed version expanding on the medium bio, including specific details about your philosophy from Doc 01.
-*   **`Artist_Statement.pdf`:** A clean, designed PDF of the full Artist Statement from Doc 01.
+#### **`01_BIO_&_STATEMENTS` (Folder)**
+*   **`Bio_Thapelo_Masebe.pdf`:** A single document containing three approved versions of your biography, sourced from the `Core Identity Framework (Doc 01)` and your new CV.
+    *   **Short Bio (50 words):** "Thapelo Masebe is a South African transdisciplinary artist, creative technologist, and emerging data scientist exploring the intersection of memory, sound, and data. His work blends structured analysis with creative curiosity to transform data into compelling visual and narrative forms."
+    *   **Medium Bio (150 words):** To be written, expanding on the above.
+    *   **Long Bio (400 words):** To be written, for detailed features.
+*   **`Artist_Statement.pdf`:** A clean, professionally formatted PDF of the Official Artist Statement from `Doc 01`.
 
-**3. `02_APPROVED_HEADSHOTS` (Folder)**
-*   **Content:** 4-6 high-resolution (300 dpi) photographs of you.
+#### **`02_APPROVED_HEADSHOTS` (Folder)**
+*   **Content:** 4-6 professional photographs of you (high-resolution, 300 dpi).
+*   **Naming Convention:** `TMM_Headshot_YYYY_[PhotographerName]_[#].jpg`
 *   **Required Shots:**
-    *   `The Professional:` A clean headshot (e.g., similar to the one on p.2 of your portfolio).
-    *   `The Artist:` A candid shot in your studio or creative environment.
-    *   `The Thinker:` A profile or three-quarter view, looking off-camera (e.g., similar to the one on p.1 of your portfolio).
+    *   **The Professional:** Clean, head-and-shoulders shot.
+    *   **The Thinker:** Candid-style shot in your workspace.
+    *   **The Maker:** Action shot of you working (coding, painting, etc.).
+    *   **Environmental Portrait:** Wider shot placing you within your studio environment.
 
-**4. `03_SELECTED_WORKS` (Folder)**
-*   **Content:** A curated selection of 10-15 of your strongest works, demonstrating range. This is your "greatest hits."
+#### **`03_SELECTED_ARTWORK_IMAGES` (Folder)**
+*   **Content:** A curated "greatest hits" selection of 10-15 of your strongest artworks, professionally photographed.
 *   **Sub-folders:** `PRINT (300dpi)` and `WEB (72dpi)`.
-*   **Example Selection:**
-    *   `Ama_Qamata_Thebe_Magugu_01.jpg` (Shows high-fashion editorial skill).
-    *   `Vans_Sportscene_01.jpg` (Shows commercial lifestyle skill).
-    *   `Remnants_of_Rhodes_01.jpg` (Shows conceptual photo-essay skill).
-    *   `Lebus_Sculpture_01.jpg` (Shows fine art/sculptural skill).
-    *   `come_in_Painting_01.jpg` (Shows abstract painting skill).
-*   **Required:** A `_Credits.txt` file listing the full credit line for each image.
+*   **Required `Credit_List.txt`:** A plain text file listing the full, correct credit line for each image file.
+    *   **Example:**
+        `2019-THAPO-PHS-002.jpg`
+        `Thapelo Masebe`
+        `Remnants of Rhodes, 2019`
+        `35mm Film Photograph`
+        `Photo Credit: Thapelo Masebe`
 
-**5. `04_LOGOS_&_BRAND_ASSETS` (Folder)**
-*   **Content:** Vector (`.svg`) and raster (`.png`) versions of your key logos (`THAPELO MADIBA MASEBE`, `aes72studio`, `Research Radio`).
-*   **Sub-folders:** Each logo must have `_Black.png`, `_White.png`, and `_Vector.svg` versions.```
+#### **`04_LOGOS_&_BRAND_ASSETS` (Folder)**
+*   **Content:** Vector (`.svg`) and raster (`.png`) versions of your key logos.
+*   **Sub-folders:** `THAPELO_MASEBE_(Master_Logo)`, `AES72STUDIO_(Logo)`, `MASEBE_DATA_(Logo)`.
+*   **Each sub-folder must contain:**
+    *   `[LogoName]_Black.png` (for light backgrounds)
+    *   `[LogoName]_White.png` (for dark backgrounds)
+    *   `[LogoName]_Vector.svg` (for professional design use)
+
+#### **`05_CV` (Folder)**
+*   **Content:** The most up-to-date, professionally formatted PDF of your Curriculum Vitae.
+*   **File Name:** `CV_Thapelo_Masebe_YYYY-MM.pdf`.
+
 ---
