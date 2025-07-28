@@ -1,45 +1,47 @@
 # TMM-OS Doc 13: The Master Task List
 **Version:** 1.0 | **Status:** DYNAMIC - UPDATE WEEKLY | **Last Reviewed:** 2025-07-13
 
-**Primary Use Case:** To capture every task—from small to large—and prevent anything from falling through the cracks. This is your master "to-do" list, organized by strategic project. This will be migrated to the `tasks` table in the database.
+---
+
+### 1.0 Introduction
+This document is the master list of all actionable tasks across the entire TMM-OS. It is a living document to be reviewed at the start of each week to set priorities. It captures everything from critical logistical needs to long-term project milestones.
+
+### 2.0 How to Use
+*   **Status:** Use `[ ]` for "To Do" and `[x]` for "Done".
+*   **Prioritize:** At the start of each week, ensure you have defined tasks for your "Critical" and "High" priority projects.
 
 ---
 
-### Critical Priority (This Month)
-- [ ] **Task:** Resolve commute/housing situation to reclaim time/energy.
-  - **Project:** Life/Operations
-  - **Due Date:** 2025-09-30
-  - **Notes:** This is the single most important enabler for all other goals.
+### 3.0 Master Task List (as of 2025-07-13)
 
-### High Priority (This Week & Next)
-- [ ] **Task:** Complete Deviare Data Scientist SQL Module.
-  - **Project:** Masebe Data / Skills
-  - **Due Date:** 2025-07-21
-- [ ] **Task:** Purchase `thapelomasebe.com` domain.
-  - **Project:** Brand/IP
-  - **Due Date:** 2025-07-15
-- [ ] **Task:** Complete the TMM-OS Foundation Build (all docs and database setup).
-  - **Project:** TMM-OS
-  - **Due Date:** 2025-07-21
-- [ ] **Task:** Create initial `master_data.json` file for Dashboard v1.
-  - **Project:** Dashboard
-  - **Due Date:** 2025-07-20
+| Status | Task | Project / Pillar | Priority | Due Date | Notes |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **CRITICAL & IMMEDIATE (NEXT 3 MONTHS)** | | | | | |
+| `[ ]` | Resolve commute/housing situation | Life/Operations | **CRITICAL** | 30-Sep-25 | Research areas closer to Sandton. |
+| `[ ]` | Purchase `thapelomasebe.com` domain | Brand/IP | **CRITICAL** | 20-Jul-25 | Use budget from Doc 04. |
+| `[ ]` | Complete Deviare Data Scientist career path | Masebe Data | **CRITICAL** | 31-Dec-25 | Finish all modules and portfolio projects. |
+| `[ ]` | Finalize Dossier for `Love Me Again` | Activation Kit | High | 31-Aug-25 | Use template from Doc 08 for NAC application. |
+| `[ ]` | Finalize Dossier for Fujifilm Sponsorship | Activation Kit | High | 30-Sep-25 | Tailor `Love Me Again` proposal for Fuji. |
+| `[ ]` | Assemble all assets for Press Kit | Activation Kit | High | 30-Sep-25 | Schedule headshots, gather artwork files. |
+| | | | | | |
+| **STRATEGIC FOUNDATIONS (Module I)** | | | | | |
+| `[x]` | Create Core Identity Framework v4.0 | Doc 01 | High | 13-Jul-25 | **Complete.** |
+| `[x]` | Create Strategic Orchestration v1.0 | Doc 02 | High | 13-Jul-25 | **Complete.** |
+| `[x]` | Create Influence Map v2.0 | Doc 03 | High | 13-Jul-25 | **Complete.** |
+| | | | | | |
+| **OPERATIONAL TOOLKIT (Module II)** | | | | | |
+| `[x]` | Create Brand & IP System v1.0 | Doc 04 | High | 13-Jul-25 | **Complete.** |
+| `[x]` | Create Brand Architecture v1.1 | Doc 04a | High | 13-Jul-25 | **Complete.** |
+| `[x]` | Create Asset Management System v2.0 | Doc 05 | High | 13-Jul-25 | **Complete.** |
+| `[x]` | Create Financial System v1.0 | Doc 06 | High | 13-Jul-25 | **Complete.** |
+| `[x]` | Create Skills & Competencies Log v2.0 | Doc 06a | High | 13-Jul-25 | **Complete.** |
+| `[ ]` | Populate `tmm_os_db` with all data | DATABASE | High | 31-Jul-25 | Write and run INSERT SQL scripts. |
+| | | | | | |
+| **ACTIVATION & ENGAGEMENT (Module III)** | | | | | |
+| `[ ]` | Develop "ML Constellations" project | Masebe Data | Medium | 31-Mar-26 | This is a key `Masebe Data` portfolio piece. |
+| `[ ]` | Write first draft of `Algorithmic Ghosts` essay| aes72studio | Medium | 30-Nov-25 | For `The Biko Archives` project. |
+| | | | | | |
+| **LEGACY & DAILY OPS (Module IV & V)** | | | | | |
+| `[ ]` | Build v1 of the Dashboard | DASHBOARD | High | 31-Jul-25 | Create the HTML, CSS, JS, and JSON files. |
 
-### Medium Priority (This Quarter)
-- [ ] **Task:** Finalize the `Love Me Again` Dossier for the National Arts Council.
-  - **Project:** Activation Kit
-  - **Due Date:** 2025-08-31
-- [ ] **Task:** Schedule and complete professional headshot photoshoot.
-  - **Project:** Press Kit
-  - **Due Date:** 2025-09-15
-- [ ] **Task:** Write first draft of `Algorithmic Ghosts` critical essay.
-  - **Project:** aes72studio / The Biko Archives
-  - **Due Date:** 2025-10-31
-
-### Low Priority (Backlog)
-- [ ] **Task:** Research and select a legal professional for trademark registration.
-  - **Project:** Brand/IP
-  - **Due Date:** 2025-12-15
-- [ ] **Task:** Begin prototyping "Genesis Collection" for `TM Homemade Handmade`.
-  - **Project:** TMHH
-  - **Due Date:** TBD
+---
