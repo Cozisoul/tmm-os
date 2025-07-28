@@ -1,44 +1,52 @@
-# TMM-OS Doc 11: Institutional Blueprint - Studio Masebe ("The Factory")
-**Version:** 1.0 | **Status:** CONCEPTUAL BLUEPRINT - FOR LONG-TERM PLANNING | **Projected Establishment:** 2034-2039
-
-**Primary Use Case:** To serve as the foundational vision document for securing the high-level partnerships, patronage, and real estate required to establish a physical studio. This document is for long-term strategic conversations, demonstrating a clear and profound vision for a legacy institution.
+# TMM-OS Doc 11: Institutional Blueprint - Studio Masebe
+**Version:** 2.0 | **Status:** CONCEPTUAL BLUEPRINT - FOR LONG-TERM PLANNING | **Last Reviewed:** 2025-07-13
 
 ---
 
-### 1.0 Official Title & Positioning
+### 1.0 Vision & Positioning
 
-*   **Official Title:** Studio Masebe — The Roodepoort "Factory"
-*   **Positioning Statement:** A transdisciplinary research institute and production studio dedicated to exploring the intersection of art, data, community, and African identity. It is a 21st-century "factory" for producing not just objects, but ideas, collaborations, and new models for creative practice.
+*   **Official Title:** Studio Masebe
+*   **Vision Statement:** To establish a world-class, transdisciplinary research office and production studio with its heart in **Seshego, Limpopo**, and strategic satellite offices in Johannesburg and Cape Town.
+*   **Positioning Statement:** Studio Masebe is a decentralized creative institution architected for the 21st century. It is a professional research "office" for developing ideas and a production "studio" that leverages a network of specialized workshops for fabrication. Its primary mission is to create world-class work while investing directly in the cultural and economic ecosystem of the founder's home community.
 
-### 2.0 Mission & Guiding Principles
+### 2.0 The Hub-and-Spoke Model
 
-*   **Mission Statement:** To establish a world-class physical hub in Roodepoort that dissolves the boundaries between art, design, technology, and community. It will serve as the engine for Thapelo Masebe's practice and as a catalyst for the local and international creative ecosystem.
-*   **Guiding Principles:**
-    *   **Radical Openness:** To foster a culture of shared knowledge and transparent process.
-    *   **Rigorous Experimentation:** To provide the tools and intellectual freedom for ambitious, category-defying projects.
-    *   **Community Integration:** To be a resource *for* and a reflection *of* its local community, not an isolated institution.
+The studio will operate on a hub-and-spoke model, designed for flexibility and strategic presence.
 
-### 3.0 Architectural & Spatial Concept
+*   **The Hub: The Seshego "Factory" (Phase 3 Goal)**
+    *   **Function:** The primary headquarters, creative engine, and community-facing institution. This will be the largest physical site, housing the core team, the primary archive, and public programming. It is the heart of the practice, symbolizing a "return home" and a long-term investment in the region.
+*   **The Spokes: JHB & CPT Offices (Phase 2 Goal)**
+    *   **Function:** Small, agile, professional office spaces in major creative capitals. These will not be large production studios but strategic meeting points for client engagement, networking, and project management. They serve as the commercial and collaborative gateways to the creative work being developed in the Seshego Hub.
 
-*   **Inspirational DNA:** The integrated research/production model of **Studio Olafur Eliasson** + the cultural/social energy of Andy Warhol's **The Factory**.
-*   **Aesthetic:** Industrial Brutalism meets Minimalist Elegance. A repurposed light-industrial building is the ideal shell. Key materials are exposed concrete, raw steel, glass, and warm wood. The space must be highly flexible and modular.
+### 3.0 Production Philosophy: The Grcic/Boyce Model
+
+The studio will adopt a modern, flexible production model inspired by the practices of Konstantin Grcic and Martin Boyce.
+*   **In-House:** The core team will focus on research, conceptual development, design, prototyping, and project management—the "thinking."
+*   **External Collaboration:** For large-scale or specialized fabrication (e.g., complex metalwork, high-volume furniture production, large-format printing), the studio will partner with a curated network of the best workshops and fabricators in South Africa and internationally.
+*   **Authorship:** Studio Masebe retains full creative authorship and direction, with all collaborators being properly credited as key parts of the production system, as is professional best practice.
+
+### 4.0 The Seshego "Factory" - Architectural & Spatial Concept
+
+*   **Inspirational DNA:** The Professionalism of the Office (Grcic) + The Energy of The Factory (Warhol) + The Integration of the Institute (Eliasson).
 *   **Core Spaces & Functions:**
-    *   **The Workshop (The "Clean" Space):** A state-of-the-art fabrication lab for furniture making (`TMHH`), object restoration (`Love Me Again`), and sculptural work (`aes72studio`). Features CNC routers, 3D printers, and traditional woodworking tools.
-    *   **The Digital Lab (The "Data" Space):** A climate-controlled server room and workstation hub for data analysis, AI model training, and generative art development.
-    *   **The Art Studio (The "Wet" Space):** A private, well-ventilated studio for painting and other messy fine art practices. Excellent natural light is a prerequisite.
-    *   **The Kitchen (The "Social" Space):** The heart of the studio. A large, communal kitchen and dining area designed to host talks, dinners, and informal collaborations.
-    *   **The Archive (The "Memory" Space):** A physical library and material archive containing the books, objects, and research materials that fuel the practice. It also serves as a secure, climate-controlled storage for completed artworks.
-    *   **The Project Space (The "Public" Space):** A flexible, double-volume gallery space to test-run installations, host exhibitions, and conduct public workshops.
+    *   **The Digital Lab:** The core of the building. A state-of-the-art hub for data analysis, AI training, and generative art development.
+    *   **The Research Archive:** A physical and digital library housing the books, materials, and data that fuel the practice.
+    *   **The Prototyping Workshop:** A smaller, in-house workshop for testing ideas, building models, and small-scale fabrication.
+    *   **The Project Space:** A flexible gallery and public-facing space for exhibitions, workshops, and community events.
+    *   **The Office:** A quiet, professional space for the administrative and project management functions.
+    *   **The Kitchen:** The social heart of the studio, for hosting talks, dinners, and collaborations.
+    *   **Residency Quarters:** A self-contained unit to host a visiting artist, researcher, or collaborator.
 
-### 4.0 Programming & Public Engagement Model
+### 5.0 Strategic Phasing for Establishment
 
-*   **Studio Practice:** The primary function is to house the day-to-day operations of all TMM brands.
-*   **Residency Program:** A funded, three-month residency for one emerging artist, writer, or researcher per year whose work aligns with the studio's core principles. The resident will have access to all studio facilities and mentorship.
-*   **Public Workshop Series:** A quarterly series of ticketed, hands-on workshops for the public (e.g., "Intro to Creative Coding," "The Art of Repair," "Data Visualization for Storytellers").
-*   **"First Thursday" Open Studio:** The studio will open to the public on the first Thursday of every month, featuring work-in-progress, talks, and performances, integrating into the Johannesburg gallery circuit.
+*   **Phase 1 (Years 5-8): JHB Office & Network Development.**
+    *   **Goal:** Establish the first small, professional office "spoke" in Johannesburg.
+    *   **Action:** Lease a small, well-located office space. Begin formally identifying and building relationships with the network of high-quality fabrication workshops.
+*   **Phase 2 (Years 9-12): The Seshego Land Acquisition & Design.**
+    *   **Goal:** Acquire a suitable plot of land in or near Seshego.
+    *   **Action:** Begin high-level conversations with local authorities, potential patrons, and community stakeholders. Commission an architectural firm to design the "Factory." Launch the primary capital campaign.
+*   **Phase 3 (Years 13-15+): Construction & Launch.**
+    *   **Goal:** Construct, equip, and launch the Seshego Hub.
+    *   **Action:** Complete construction. Hire a small core administrative and technical team. Launch the first year of public programming and the residency program. Establish the Cape Town "spoke" office.
 
-### 5.0 Strategic Vision for Establishment
-
-*   **Phase 1 (2028-2033):** Site Identification & Patronage. Identify a suitable industrial property in Roodepoort. Begin high-level conversations with potential founding patrons and corporate partners based on the success of Phase 2 projects.
-*   **Phase 2 (2034-2036):** Acquisition & Architectural Design. Secure property and commission an architectural firm to design the renovation and interior fit-out. Launch a capital campaign.
-*   **Phase 3 (2037-2039):** Construction & Launch. Complete construction, hire a small administrative staff, and launch the first year of programming.
+---
