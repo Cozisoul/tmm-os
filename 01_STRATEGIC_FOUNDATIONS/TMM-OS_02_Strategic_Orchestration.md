@@ -11,7 +11,7 @@ This document outlines the 15-year strategic plan to evolve my practice from an 
 
 *   **Professional Status:** Operating as a leading **Transdisciplinary Creative Director** at a global agency, tech company, or as the head of a self-sustaining **Studio Masebe**. My unique ability to merge data analysis, cultural insight, and artistic sensibility will be my core professional asset.
 *   **Financial Status:** Having achieved **Financial Mastery**, with a net worth exceeding **£5M-£10M+**. This enables complete creative independence, the ability to self-fund major institutional projects, and the capacity to act as an active philanthropist for the next generation of South African creatives.
-*   **Institutional Status:** **Studio Masebe ("The Factory")** is an established, operational cultural hub in Roodepoort. **The Black Consciousness Digital Archive (BCDA)** is launched, funded, and recognized as a definitive scholarly resource.
+*   **Institutional Status:** **Studio Masebe ("The Factory")** is an established, operational cultural hub in Seshego, Limpopo. **The Black Consciousness Digital Archive (BCDA)** is launched, funded, and recognized as a definitive scholarly resource.
 
 ---
 
@@ -67,7 +67,7 @@ This document outlines the 15-year strategic plan to evolve my practice from an 
 **Focus:** Operating as a unified and recognized leader. The dual tracks fully merge. The focus shifts from personal projects to building enduring, self-sustaining institutions and leveraging financial freedom for maximum impact.
 
 **5.1 Key Institutional Projects (Legacy Track):**
-*   **Project 6: `Studio Masebe — The Roodepoort "Factory"`**
+*   **Project 6: `Studio Masebe — The Seshego "Factory"`**
     *   *Objective:* To acquire a property, execute the architectural vision (from Doc 11), and formally launch the studio as an operational, revenue-generating, and community-focused entity.
 *   **Project 7: `The Black Consciousness Digital Archive & Research Platform`**
     *   *Objective:* To secure major institutional funding and academic partnerships, build the platform (from Doc 12), and launch it as a definitive, open-source resource for global scholars.
