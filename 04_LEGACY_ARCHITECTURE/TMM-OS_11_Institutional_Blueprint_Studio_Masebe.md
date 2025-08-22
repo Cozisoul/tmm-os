@@ -48,5 +48,3 @@ The studio will adopt a modern, flexible production model inspired by the practi
 *   **Phase 3 (Years 13-15+): Construction & Launch.**
     *   **Goal:** Construct, equip, and launch the Seshego Hub.
     *   **Action:** Complete construction. Hire a small core administrative and technical team. Launch the first year of public programming and the residency program. Establish the Cape Town "spoke" office.
-
----
