@@ -28,14 +28,14 @@ This document is the definitive inventory of all professional capabilities. It s
 | **Sound Design & Sonification**| Supercollider | **Foundational**| `MeerKAT Echoes` (Planned) |
 | **Graphic Design** | Adobe Photoshop, Canva | **Intermediate**| All TMM Branding, `PayJustNow` Project (Leebex) |
 
-### 4.0 Strategy & Communication
+### 4.0 Strategy & Leadership (Upgraded)
 
-| Specific Skill / Competency | Software / Tools | Proficiency Level | Evidence / Project Where Used |
+| Specific Skill / Competency | Details | Proficiency Level | Evidence / Project Where Used |
 | :--- | :--- | :--- | :--- |
-| **Project Management** | Google Suite, Notion | **Advanced** | `2024-THAPO-COM-002` (Block Black), `2024-THAPO-COM-005` (MOOD) |
-| **Creative Direction** | N/A | **Advanced** | `2024-0723-COM-009` (Excommunicado), `2019-THAPO-PHS-003` (Us as thee Culture) |
-| **Social Media Management** | Sprout, Hootsuite, Native Platforms | **Advanced** | `2024-THAPO-COM-008` (Tactical Padel), `Freelance` (2019-Present) |
-| **Content Creation & Copywriting**| Google Docs, Notion | **Advanced** | All project proposals, artist statements, social media captions. |
+| **Creative Direction** | Conceptualizing and guiding the visual and narrative direction of campaigns from ideation to final delivery. | **Advanced** | `2024-THAPO-COM-005` (Cotton On), `2024-0723-COM-009` (Excommunicado) |
+| **Production Management**| Managing timelines, logistics, talent coordination, and deliverables for commercial shoots. | **Advanced** | `2024-THAPO-COM-002` (Block Black), `2019-THAPO-COM-013` (Studio Manager) |
+| **Campaign Strategy** | Collaborating with marketing teams to translate brand goals into executable content strategies. | **Advanced** | `2024-THAPO-COM-001` (Vanz), `Freelance` (2017-Present) |
+| **Project Management** | Overseeing the entire lifecycle of a creative project, ensuring deadlines are met and client expectations exceeded. | **Advanced** | All commercial projects. |
 
 ### 5.0 General Professional
 
